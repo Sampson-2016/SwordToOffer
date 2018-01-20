@@ -1,4 +1,5 @@
 public class Exercise2 {
+    /*单例模式，参考博客 http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/ */
     public static void main(String[] args) {
         System.out.println(SingletonA.getInstance().hashCode());
         System.out.println(SingletonA.getInstance().hashCode());
