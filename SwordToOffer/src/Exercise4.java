@@ -1,4 +1,4 @@
-/*把字符串每个空格替换成%20 */
+/*把字符串每个空格替换成%20  test git*/
 public class Exercise4 {
     public static void main(String[] args) {
         StringBuffer a =new StringBuffer("we are happy.") ;
