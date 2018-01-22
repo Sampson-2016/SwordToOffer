@@ -2,10 +2,10 @@
 public class Exercise4 {
     public static void main(String[] args) {
         StringBuffer a =new StringBuffer("we are happy.") ;
-        System.out.println(repalce(a));
+        System.out.println(replace(a));
     }
 
-    public static String repalce(StringBuffer original){
+    public static String replace(StringBuffer original){
         int n= 0,length=original.length();
         for (int i = 0; i < length; i++) {
             if(original.charAt(i)==' '){
