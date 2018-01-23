@@ -17,8 +17,8 @@ public class Exercise7
 }
 
 class MyQueue{
-    Stack in;
-    Stack out;
+    private Stack in;
+    private Stack out;
     public MyQueue(){
         in = new Stack();
         out = new Stack();
