@@ -42,6 +42,6 @@ public class Exercise15 {
         node4.setNext(node5);
         node5.setData(1);
 
-        System.out.println(getLastKNode(6,node1).getData());
+        getLastKNode(6,node1);
     }
 }
