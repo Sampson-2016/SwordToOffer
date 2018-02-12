@@ -1,7 +1,6 @@
 package njust.edu.cn;
 
 import java.util.Stack;
-import java.util.Vector;
 
 /**
  * Created by Sampson on 2018/2/12
